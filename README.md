@@ -2,7 +2,6 @@
 - currently working on back-end
 - Python
 - looking to collaborate on projects that bring freedom
-- How to reach me: https://www.linkedin.com/in/ac%C3%A1cio-brito-0a240b1a9/
 - Pronouns: he, his
 
 <div>
